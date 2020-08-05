@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "27949676135",
+    "firebase_url": "https://car-towing-2ddfc.firebaseio.com",
+    "project_id": "car-towing-2ddfc",
+    "storage_bucket": "car-towing-2ddfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27949676135:android:61cfe81a8ca2bac6c446c2",
+        "android_client_info": {
+          "package_name": "com.example.cartowing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27949676135-sb8t14t76u0432t2b2ed2iaop08r5fn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cartowing",
+            "certificate_hash": "549bdf86bcbf7387eb8dfa689861033dd237d221"
+          }
+        },
+        {
+          "client_id": "27949676135-t76b7skin1kqcisi0lfoknn27t1v11r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8ZnED4zwD3oPVbRwspQxu6Uibzh0h20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27949676135-t76b7skin1kqcisi0lfoknn27t1v11r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
