@@ -220,7 +220,7 @@ class _LoginState extends State<Login> {
               children: <Widget>[
                 Text(
                   "Forgot password ?",
-                  style: Theme.of(context).textTheme.title,
+                  style: Theme.of(context).textTheme.headline6,
                 ),
                 SizedBox(height: 20),
                 TextField(
